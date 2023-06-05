@@ -3,7 +3,7 @@
 - Ben Hamou Mohamed
 - El Housni Youssef
 - Mouhat Aiman
-- Laouan Ilyaas
+- Laouane Ilyass
 
 SpaCy est une bibliothèque populaire de traitement du langage naturel (NLP) qui fournit des modèles pré-entraînés pour diverses tâches, y compris la reconnaissance des entités nommées (NER). Dans ce rapport, nous allons examiner comment SpaCy peut être utilisé pour la NER et présenter un exemple de texte que nous avons testé avec cet outil.
 
